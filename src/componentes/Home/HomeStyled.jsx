@@ -10,7 +10,7 @@ const Main = styled.main`
         display: flex;
         align-items: center;
         justify-content: space-between;
-        padding: 3rem 0 8rem 0;
+        padding: 3rem 0 9rem 0;
         flex-direction: column;
 
         img{
@@ -38,6 +38,7 @@ const Header = styled.header`
 
     img{
         width: 3rem;
+        margin-left: 1rem;
 
         @media (max-width: 428px){
             width: 2rem;

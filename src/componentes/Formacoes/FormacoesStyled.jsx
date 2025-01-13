@@ -46,7 +46,7 @@ const Section = styled.section`
         list-style-type: square;
 
         p{
-            font-size: 0.9rem;
+            font-size: 1rem;
             margin-bottom: 1rem;
 
             @media (max-width: 428px){

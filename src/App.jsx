@@ -1,4 +1,3 @@
-import './App.css'
 import { Home } from './componentes/Home/Home'
 import { createGlobalStyle } from 'styled-components'
 import { Projetos } from './componentes/Projetos/Projetos'

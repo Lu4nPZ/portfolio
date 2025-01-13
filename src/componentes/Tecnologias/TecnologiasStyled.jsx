@@ -32,6 +32,12 @@ const Section = styled.section`
         border-radius: 0.5rem;
         background-color: #fff;
         color: #000;
+        transition: 0.2s ease-in-out;
+
+        &:hover{
+            background-color: #7f7f7f;
+            color: #fff;
+        }
     }
 `
 

@@ -41,7 +41,7 @@ const Home = ({ id })=>{
             <Info>
                 <h1>Luan Pablo</h1>
                 <h2>Web Developer</h2>
-                <p>Me chamo Luan Pablo, sou programador front-end com sólida experiência em HTML, CSS, JavaScript e React. Sempre em busca de aprimorar minhas habilidades e aprender novas tecnologias, atualmente estou cursando Análise e Desenvolvimento de Sistemas. Tenho um grande interesse em soluções inovadoras e em criar interfaces web dinâmicas e intuitivas que proporcionem a melhor experiência ao usuário. Estou constantemente evoluindo e procurando novas oportunidades para expandir meus conhecimentos no desenvolvimento front-end.</p>
+                <p>Me chamo Luan Pablo, sou programador front-end com sólida experiência em HTML, CSS, JavaScript, React e estudando TypeScript. Sempre em busca de aprimorar minhas habilidades e aprender novas tecnologias, atualmente estou cursando Análise e Desenvolvimento de Sistemas. Tenho um grande interesse em soluções inovadoras e em criar interfaces web dinâmicas e intuitivas que proporcionem a melhor experiência ao usuário. Estou constantemente evoluindo e procurando novas oportunidades para expandir meus conhecimentos no desenvolvimento front-end.</p>
                 <Redes>
                     <li>
                         <Itens href="https://wa.me/31999715582" target='_blank'>
